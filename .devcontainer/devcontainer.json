@@ -12,5 +12,6 @@
     "settings": {
         "files.insertFinalNewline": true,
         "files.trimTrailingWhitespace": true,
+        "latex-workshop.latex.autoBuild.run": "onSave",
 	},
 }
