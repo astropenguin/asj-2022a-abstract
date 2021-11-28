@@ -13,5 +13,6 @@
         "files.insertFinalNewline": true,
         "files.trimTrailingWhitespace": true,
         "latex-workshop.latex.autoBuild.run": "onSave",
+        "latex-workshop.latex.recipe.default": "latexmk (latexmkrc)",
 	},
 }
