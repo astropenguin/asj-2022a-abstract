@@ -1,0 +1,16 @@
+{
+    "name": "asj-2022a-abstract",
+    "build": {
+        "context": "..",
+        "dockerfile": "Dockerfile",
+    },
+    "extensions": [
+        "james-yu.latex-workshop",
+        "mhutchie.git-graph",
+        "streetsidesoftware.code-spell-checker",
+    ],
+    "settings": {
+        "files.insertFinalNewline": true,
+        "files.trimTrailingWhitespace": true,
+	},
+}
